@@ -9,7 +9,7 @@ This Prework Study Guide was created for a Full Stack Coding Bootcamp, in order 
 
 ## Installation
 
-N/A
+https://cherylhemphill.github.io/prework-study-guide/
 
 ## Usage
 
